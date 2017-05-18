@@ -175,6 +175,24 @@ footer img {
     justify-content: flex-start;
     margin-top: 3rem;
   }
+  .features .info-detail {
+    width: auto;
+  }
+  .info-detail .title {
+    width: 100%;
+    max-width: 100%;
+    text-align: center;
+  }
+  .info-detail p {
+    padding: 1rem;
+    font-size: .77rem;
+  }
+  footer {
+    justify-content: center;
+  }
+  footer div {
+    display: none;
+  }
 }
 
 @media only screen and (max-width: 700px) {
